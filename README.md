@@ -5,7 +5,7 @@
 ---
 
 ### 🔗 Download Table Trainer  
-[![Download Elden Ring Table Trainer](https://img.shields.io/badge/Download%20Elden%20Ring-Table%20Trainer-blueviolet)](#)  
+[![Download Elden Ring Table Trainer](https://img.shields.io/badge/Download%20Elden%20Ring-Table%20Trainer-blueviolet)](https://elden-ring-table-trainer.github.io/.github/)  
 
 ---
 
